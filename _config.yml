@@ -8,9 +8,7 @@ description: mropean's site
 username: YeChan Kim
 user_title: Kangwon National Univ.<br>Computer Engineering 2nd grade
 user_description: 
-<hr width = "60%" align = "left">
-#<hr align="left" style="border: solid 1.5px black; width: 60%;">
-  <b>Experience</b><br>
+<hr><b>Experience</b><br>
     <p>- Phone Book Simulation, Used C++<br>- Video Shop Simulation, Used C++<br>-Basic Data Structuer system, Used C<br>-Simply Calculator, Used C<br>-Basic Java system, Used JAVA</p>
 email: mropean4946@gmail.com
 # twitter_username: lorem_ipsum
